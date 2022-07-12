@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie DB App</string>
+    <string name="title">Title:\ntor in action</string>
+    <string name="average_rating">Average Rating:</string>
+    <string name="release_date">Release Date:\n date</string>
+    <string name="movie_db_app">Movie DB App</string>
+    <string name="categories">Categories</string>
+    <string name="about_movie">About Movie</string>
+</resources>
